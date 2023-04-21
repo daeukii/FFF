@@ -1,0 +1,33 @@
+.home{
+    margin-right: 100px ;
+    text-decoration: none;
+    font-size: 2.5rem;
+    color: black;
+}
+.home:hover{
+    color:green;
+}
+
+.story{
+    text-decoration: none;
+    font-size: 2.5rem;
+    color: black;
+}
+.story:hover{
+    color:green;
+}
+
+.apple{
+    margin-right: 50px;
+    text-decoration: none;
+    color: black;
+}
+.orange{
+    margin-right: 50px;
+    text-decoration: none;
+    color: black;
+}
+.peach{
+    text-decoration: none;
+    color: black;
+}
